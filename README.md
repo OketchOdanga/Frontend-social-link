@@ -9,8 +9,8 @@ Users should be able to:
 # screenshot
 
 # links
-- Solution URL: [Add solution URL here](https://oketchodanga.github.io/Frontend-social-link/)
-- Live Site URL: [Add live site URL here](https://oketchodanga.github.io/Frontend-social-link/)
+- Solution URL: [https://oketchodanga.github.io/Frontend-social-link/]
+- Live Site URL: [https://oketchodanga.github.io/Frontend-social-link/]
 # my-process
 
 # built-with
@@ -23,4 +23,4 @@ Users should be able to:
 # author
 - Website - [Austine Odanga](https://oketchodanga.github.io/Frontend-social-link/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Austine44](https://www.twitter.com/Austine 44)
+- Twitter - [@Austine44](https://www.twitter.com/Austine44)
