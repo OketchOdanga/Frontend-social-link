@@ -40,7 +40,7 @@ header h2{
     text-align: center;
 }
 
-header 
+header
 .location{
     color: hsl(75, 94%, 57%);
     font-size: 14px;
@@ -76,7 +76,7 @@ main{
 .content:hover,
 .content:focus-visible{
     background-color: hsl(75, 94%, 57%);
-} 
+}
 
 /* || FOOTER */
 
@@ -85,10 +85,10 @@ footer{
 }
 
 .attribution{
-     font-size: 11px; text-align: center; 
+     font-size: 11px; text-align: center;
 }
 .attribution a {
-     color: hsl(228, 45%, 44%); 
+     color: hsl(228, 45%, 44%);
 }
 
 
@@ -97,7 +97,7 @@ footer{
         margin: 4rem 1.5rem;
         padding: 2rem 0.5rem;
     }
-    
+
 }
 
 @media only screen and (min-width:1024px) {
@@ -105,13 +105,13 @@ footer{
         margin: 10rem 20rem;
         padding: 3rem 1rem;
     }
-    
+
 }
 @media only screen and (min-width:1440px) {
     body{
         margin: 10rem 30rem;
         padding: 3rem 1rem;
     }
-    
+
 }
 
